@@ -1,1 +1,2 @@
 # CopyInvoiceCalculator
+a Python script designed to calculate the cost of copying services based on the number of copies requested. It prompts the user to input the desired number of copies and then calculates the corresponding invoice amount. The script accounts for different pricing tiers, such as a lower rate for the first 10 copies, a slightly higher rate for the next 20 copies, and a third rate for any additional copies beyond 30. It then displays the invoice amount in Moroccan Dirhams (dh) for the provided quantity of copies.
